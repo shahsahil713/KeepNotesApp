@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/KeepNotesApp/static/css/main.04d8d737.chunk.css",
+    "main.js": "/KeepNotesApp/static/js/main.32215a50.chunk.js",
+    "main.js.map": "/KeepNotesApp/static/js/main.32215a50.chunk.js.map",
+    "runtime-main.js": "/KeepNotesApp/static/js/runtime-main.e6c0a212.js",
+    "runtime-main.js.map": "/KeepNotesApp/static/js/runtime-main.e6c0a212.js.map",
+    "static/js/2.b853c71e.chunk.js": "/KeepNotesApp/static/js/2.b853c71e.chunk.js",
+    "static/js/2.b853c71e.chunk.js.map": "/KeepNotesApp/static/js/2.b853c71e.chunk.js.map",
+    "index.html": "/KeepNotesApp/index.html",
+    "precache-manifest.1282c4d1eae0b5e59bb527a876db36ca.js": "/KeepNotesApp/precache-manifest.1282c4d1eae0b5e59bb527a876db36ca.js",
+    "service-worker.js": "/KeepNotesApp/service-worker.js",
+    "static/css/main.04d8d737.chunk.css.map": "/KeepNotesApp/static/css/main.04d8d737.chunk.css.map",
+    "static/js/2.b853c71e.chunk.js.LICENSE.txt": "/KeepNotesApp/static/js/2.b853c71e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c0a212.js",
+    "static/js/2.b853c71e.chunk.js",
+    "static/css/main.04d8d737.chunk.css",
+    "static/js/main.32215a50.chunk.js"
+  ]
+}
